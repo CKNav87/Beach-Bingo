@@ -20,12 +20,12 @@ export default defineConfig({
         theme_color: "#0bbcd6",
         icons: [
           {
-            src: "/pwa-192x192.png",
+            src: "/vite.png",
             sizes: "192x192",
             type: "image/png"
           },
           {
-            src: "/pwa-512x512.png",
+            src: "/vite.png",
             sizes: "512x512",
             type: "image/png"
           }
